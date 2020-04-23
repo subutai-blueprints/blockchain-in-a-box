@@ -95,8 +95,8 @@
             {
                 "name": "upgrade all",
                 "apt": {
-                    "update_cache": "true",
-                    "upgrade": "true"
+                    "update_cache": "yes",
+                    "upgrade": "yes"
                 }
             },
             {

@@ -95,7 +95,6 @@
             {
                 "name": "upgrade all",
                 "apt": {
-                    "allow_unauthenticated": "yes",
                     "update_cache": "yes",
                     "upgrade": "yes"
                 }
